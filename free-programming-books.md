@@ -35,6 +35,7 @@
 * [DTrace](#dtrace)
 * [Elasticsearch](#elasticsearch)
 * [Elixir](#elixir)
+  * [Ecto](#ecto)
   * [Phoenix](#phoenix)
 * [Emacs](#emacs)
 * [Embedded Systems](#embedded-systems)
@@ -846,7 +847,7 @@
 ### Basic
 
 * [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://10print.org) - Nick Montfort, Patsy Baudoin, John Bell,Ian Bogost, Jeremy Douglass, Mark C. Marino, Michael Mateas, Casey Reas, Mark Sample, Noah Vawter
-* [A beginner's guide to Gambas](http://beginnersguidetogambas.com)
+* [A beginner's guide to Gambas](http://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf) - John W. Rittinghouse (PDF)
 * [Pick/Basic: A Programmer's Guide](http://www.jes.com/pb/) - Jonathan E. Sisk
 * [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
 
@@ -941,6 +942,7 @@
 
 * [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html) - R. Mark Volkmann
+* [Clojure by Example](https://kimh.github.io/clojure-by-example/) - Hirokuni Kim
 * [Clojure Cheat Sheet](http://clojure.org/cheatsheet)
 * [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
 * [Clojure Distilled Beginner Guide](http://yogthos.github.io/ClojureDistilled.html)
@@ -949,6 +951,7 @@
 * [Clojure Koans](http://clojurekoans.com)
 * [Clojure Programming](https://en.wikibooks.org/wiki/Clojure_Programming)
 * [ClojureScript Koans](http://clojurescriptkoans.com)
+* [ClojureScript Unraveled](https://funcool.github.io/clojurescript-unraveled/) (HTML)
 * [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
 * [Modern cljs](https://github.com/magomimmo/modern-cljs)
 * [SICP Distilled - An idiosyncratic tour of SICP in Clojure](http://www.sicpdistilled.com)
@@ -1043,8 +1046,14 @@
 * [Learning Elixir](http://learningelixir.joekain.com) - Joseph Kain Blog (HTML)
 
 
+#### Ecto
+
+* [Ecto Getting Started Guide](https://hexdocs.pm/ecto/getting-started.html#content) (HTML)
+
+
 #### Phoenix
 
+* [Phoenix v1.3.0 Guide](https://hexdocs.pm/phoenix/overview.html) (HTML)
 * [Versioned APIs with Phoenix](http://elviovicosa.com/books/versioned-apis-with-phoenix) - Elvio Vicosa (PDF) *(account required)*
 
 
@@ -1978,6 +1987,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### R
 
 * [Advanced R Programming](http://adv-r.had.co.nz) - Hadley Wickham
+* [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani (PDF)
 * [Cookbook for R](http://www.cookbook-r.com) - Winston Chang
 * [Introduction to Probability and Statistics Using R](http://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf) - G. Jay Kerns (PDF)
 * [Learning Statistics with R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr) - Daniel Navarro
@@ -2165,7 +2175,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### Self
 
-* [The Self Handbook](http://handbook.selflanguage.org/current/)
+* [The Self Handbook](http://handbook.selflanguage.org)
 
 
 ### Smalltalk

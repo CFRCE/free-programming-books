@@ -40,8 +40,8 @@
 * [Scala](#scala)
 * [Software Engineering](#software-engineering)
 * [Swift](#swift)
-* [SystemVerilog](#systemverilog)
 * [Theory](#theory)
+* [Verilog / VHDL / SystemVerilog](#verilog--vhdl--systemverilog)
 * [Web Development](#web-development)
 
 
@@ -177,6 +177,7 @@
 
 * [AppCoda Complete iOS Tutorial](http://www.appcoda.com/ios-programming-course/)
 * [Developing iOS 7 Apps for iPhone and iPad](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)
+* [Ray Wenderlich iOS Tutorial](https://www.raywenderlich.com/category/ios)
 
 
 ### Java
@@ -337,16 +338,18 @@
 * [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift)
 
 
-### SystemVerilog
-
-* [SystemVerilog - Learn basics of SystemVerilog for Hardware Verification](https://verificationexcellence.teachable.com/p/learn-systemverilog)
-* [SystemVerilog based UVM Methodology - Learn to build UVM based Testbenches in SystemVerilog](https://verificationexcellence.teachable.com/p/learn-ovm-uvm)
-
-
 ### Theory
 
 * [Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about)
 * [Udacity: Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
+
+
+### Verilog / VHDL / SystemVerilog
+
+* [SOC Verification Using SystemVerilog](http://verificationexcellence.in/online-courses/soc-verification-using-systemverilog)
+* [SystemVerilog - Learn basics of SystemVerilog for Hardware Verification](https://verificationexcellence.teachable.com/p/learn-systemverilog)
+* [SystemVerilog based UVM Methodology - Learn to build UVM based Testbenches in SystemVerilog](https://verificationexcellence.teachable.com/p/learn-ovm-uvm)
+* [Verilog Hardware Description Language - An Introductory Course](http://vol.verilog.com/VOL/main.htm)
 
 
 ### Web Development
